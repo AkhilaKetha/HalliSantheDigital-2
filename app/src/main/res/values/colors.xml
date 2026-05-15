@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="santhe_green">#2D5A27</color>
+    <color name="santhe_accent">#D35400</color>
+    <color name="santhe_bg">#FDFBF2</color> <!-- Soft Cream Background -->
+    <color name="santhe_text_dark">#1B3022</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray_light">#F1F1F1</color>
+    <color name="green_light">#E8F5E9</color>
+</resources>
